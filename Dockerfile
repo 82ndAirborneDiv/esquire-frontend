@@ -1,4 +1,4 @@
-FROM node:8.7.0
+FROM node:8.16.1
 
 ENV NPM_CONFIG_LOGLEVEL warn
 SHELL ["/bin/bash", "-c"]
